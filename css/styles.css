@@ -148,6 +148,7 @@ p {
 
 .social-icons {
   padding: 20px 10px;
+  cursor:pointer;
 }
 a {
   text-decoration: none;
